@@ -13,6 +13,7 @@ All experiments were conducted on Google Colab with NVIDIA L4 GPU acceleration f
 
 ## Project Structure
 
+```
 comp448project/
 │
 ├── comp448project.ipynb     # Main Colab notebook with full pipeline
@@ -21,6 +22,7 @@ comp448project/
 ├── figures/                 # Screenshots, confusion matrices, and plots
 │
 └── README.md                # This file
+```
 
 
 ## Methods
