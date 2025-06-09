@@ -13,14 +13,15 @@ All experiments were conducted on Google Colab with NVIDIA L4 GPU acceleration f
 
 ## Project Structure
 
-📁 comp448project/
+comp448project/
 │
-├── comp448project.ipynb # Main Colab notebook with full pipeline
-├── report.pdf # Final LaTeX report (compiled)
-├── report.tex # LaTeX source code
-├── figures/ # Screenshots, confusion matrices, and plots
+├── comp448project.ipynb     # Main Colab notebook with full pipeline
+├── report.pdf               # Final LaTeX report (compiled)
+├── report.tex               # LaTeX source code
+├── figures/                 # Screenshots, confusion matrices, and plots
 │
-└── README.md # This file
+└── README.md                # This file
+
 
 ## Methods
 
